@@ -1,6 +1,6 @@
-# Notas:
+# Notes:
 
-Aplicación de consola creada con Node JS y la librería Yargs
+This is an app builded with Node JS and Yargs Library
 
 ```
 Options:
