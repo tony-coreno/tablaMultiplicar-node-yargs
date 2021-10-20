@@ -1,6 +1,6 @@
 # Notes:
 
-This is an app builded with Node JS and Yargs Library
+This is an app built with Node JS and Yargs Library
 
 ```
 Options:
